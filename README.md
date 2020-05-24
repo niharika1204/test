@@ -1,2 +1,2 @@
 # test
-This is designed for just testing
+This is designed linking with R studio
